@@ -3,7 +3,9 @@
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/diontep/ActiveDirectoryLab/blob/main/README.md)
-  - [Packet Tracer Observe Data Flow in a LAN](https://github.com/diontep/Observe-Data-Flow-in-a-LAN/)
+  - [Packet Tracer Connect to a Web Server](https://github.com/diontep/Connect-to-a-Web-Server/blob/main/README.md)
+- [Packet Tracer Observe Data Flow in a LAN](https://github.com/diontep/Observe-Data-Flow-in-a-LAN/)
+
 
 <h2>📄 Certifications</h2>
 
