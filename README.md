@@ -3,7 +3,7 @@
 <h2>👨🏾‍💻 Projects:</h2>
 
   - [Packet Tracer Connect to a Web Server](https://github.com/diontep/Connect-to-a-Web-Server/blob/main/README.md)
-  - [Setting up a Basic Home Lab](https://github.com/diontep/ActiveDirectoryLab/main/README.md)
+  - [Setting up a Basic Home Lab](https://github.com/diontep/ActiveDirectoryLab/blob/main/README.md)
 
 
 
