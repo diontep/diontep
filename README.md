@@ -5,8 +5,8 @@
   - [Home Folders](https://github.com/diontep/Home-Folders/blob/main/README.md)
   - [Basic Security GPO](https://github.com/diontep/Basic-Security-GPO)
   - [Creating a Roaming Profile](https://github.com/diontep/CreatingRoamingProfile/blob/main/README.md)
-  - [Microsoft Word Fundamentals](https://github.com/diontep/Microsoft-Word-Fundamentals/blob/main/README.md)
   - [Setting up a Basic Home Lab](https://github.com/diontep/ActiveDirectoryLab/blob/main/README.md)
+  - [Microsoft Word Fundamentals](https://github.com/diontep/Microsoft-Word-Fundamentals/blob/main/README.md)
   - [Packet Tracer Connect to a Web Server](https://github.com/diontep/Connect-to-a-Web-Server/blob/main/README.md)
     
   
